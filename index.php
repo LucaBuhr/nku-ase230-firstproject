@@ -7,3 +7,4 @@ phpinfo();
 ?>
 <h1>Name</h1>
 <h3>Role</h3>
+<p>Bio</p>
